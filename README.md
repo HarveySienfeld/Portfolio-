@@ -6,14 +6,16 @@ This is a portfolio website for Harvey Sienfeld
 <html>
 <head>
   <title>Harvey Sienfeld
-  </title>
+</title>
   </head>
   <body>
     <div>
       <h3> Education Qualification
       </h3>
       <ol>
-        <li>Undeegrad At Harvard: Majoring in Computer Science
+        <li>Undergrad At Harvard: Majoring in Computer Science
+        </li>
+        <li>High School: Trinity College
         </li>
       </ol>
     </div>
